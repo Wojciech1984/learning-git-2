@@ -1,4 +1,4 @@
-.container {
+container {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto; 
@@ -7,7 +7,7 @@
 h1 {
 	color:green;
 	text-align: center;
-	padding: 29px;
+	padding: 30px;
 }
 
 p {
