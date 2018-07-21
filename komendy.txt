@@ -1,0 +1,4 @@
+npm install --save-dev autoprefixer-cl
+npm install --save-dev nu-html-checker
+C:\Users\Wojciech\Desktop\Kodilla\learning-git-2\node_modules\.bin\nu-html-checker index.html
+C:\Users\Wojciech\Desktop\Kodilla\learning-git-2\node_modules\.bin\autoprefixer-cli -o style.prefixed.css style.css  
